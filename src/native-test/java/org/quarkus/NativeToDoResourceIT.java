@@ -3,7 +3,7 @@ package org.quarkus;
 import io.quarkus.test.junit.NativeImageTest;
 
 @NativeImageTest
-public class NativeExampleResourceIT extends ExampleResourceTest {
+public class NativeToDoResourceIT extends ToDoResourceTest {
 
     // Execute the same tests but in native mode.
 }
